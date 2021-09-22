@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Linked_List.cpp
+  Linked_List.vcxproj -> C:\cpp\GitWork\z003xhzb\Linked_List\Linked_List\Debug\Linked_List.exe
